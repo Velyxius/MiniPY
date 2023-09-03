@@ -1,2 +1,9 @@
 # MiniPY
-Programming Language made in Racket | 2023
+
+Programming Language in Racket. Academic project made in collaboration with:
+
+- Andrés Borja
+- Andrés Camargo
+- Juan Viáfara
+- Natalia Riaños
+
